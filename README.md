@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img align="right" alt="avatar" width="200" src="AnaAvatar-removebg.png"> 
-![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
+<img align="right" alt="avatar" width="200" src="AnaAvatar-removebg.png">
+<img align="left" alt="discord" src="https://img.shields.io/discord/757248931796090970?color=blue&label=Discord&logo=Discord&logoColor=lightblue">
+<br></br>
+<br></br>
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
 <!--
 **Kendikendine/Kendikendine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
