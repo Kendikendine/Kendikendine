@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img align="right" alt="avatar" width="200" src="AnaAvatar-removebg.png"> 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
 <!--
 **Kendikendine/Kendikendine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
