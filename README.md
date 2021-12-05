@@ -6,9 +6,7 @@
 </a>
 <img alt="discord" src="https://img.shields.io/discord/757248931796090970?color=blue&label=Discord&logo=Discord&logoColor=lightblue">
 <img src="https://img.shields.io/twitch/status/kendikendine?style=social">
-</p> <br></br>
-<br></br>
-<img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
+</p>
 <table class="center">
 <tr align="center">
 <td colspan="3">⬇️⬇️⬇️ Tüm Linkler ⬇️⬇️⬇️</td>
@@ -55,4 +53,4 @@
 <img src="https://img.shields.io/badge/Whatsapp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a></tr>
 </table>
-<br></br>
+<img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
