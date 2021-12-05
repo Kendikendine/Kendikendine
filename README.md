@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kedikedine neler yapıyorsun?  👋
 <img align="right" alt="avatar" width="200" src="AnaAvatar-removebg.png">
 <p align="left">
 <a href="https://www.facebook.com/Samaciftlik">
@@ -54,3 +54,4 @@
 </a></tr>
 </table>
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
+<br></br>
