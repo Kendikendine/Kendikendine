@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img align="right" alt="avatar" width="200" src="AnaAvatar-removebg.png"> 
+![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
 <!--
 **Kendikendine/Kendikendine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
