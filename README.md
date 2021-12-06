@@ -1,4 +1,4 @@
-### Kedikedine neler yapıyorsun?  👋
+### Kendikendine neler yapıyorsun?  👋
 <img align="right" alt="avatar" width="333" src="AnaAvatar-removebg.png">
 <p align="left">
 <a href="https://www.facebook.com/Samaciftlik">
