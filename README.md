@@ -35,7 +35,7 @@
 <td><a href="https://www.twitch.tv/kendikendine">
 <img src="https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white">
 </a> 
-<td><a href="https://www.reddit.com/r/LastBashibazouk/">
+<td><a href="https://www.reddit.com/u/LastBashibazouk/">
 <img src="https://img.shields.io/badge/Reddit-FF4301?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 <td><a href="https://github.com/Kendikendine">
