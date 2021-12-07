@@ -6,6 +6,7 @@
 </a>
 <img alt="discord" src="https://img.shields.io/discord/757248931796090970?style=plastic">
 <img src="https://img.shields.io/twitch/status/kendikendine?style=plastic">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/LastBashibazouk?label=reddit%20karma&logo=reddit&style=plastic">
 </p>
 <table class="center">
 <tr align="center">
