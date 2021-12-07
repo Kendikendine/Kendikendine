@@ -54,4 +54,5 @@
 </a></tr>
 </table>
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
+<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/LastBashibazouk?logo=reddit&style=plastic">
 <br></br>
