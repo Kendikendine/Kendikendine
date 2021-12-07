@@ -41,7 +41,6 @@
 <td><a href="https://github.com/Kendikendine">
 <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
 </a></tr>
-
 <tr>
 <td><a href="https://tr.pinterest.com/alperama/">
 <img src="https://img.shields.io/badge/Pinterest-F0002A?style=for-the-badge&logo=pinterest&logoColor=white">
@@ -53,7 +52,8 @@
 <img src="https://img.shields.io/badge/Whatsapp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a></tr>
 </table>
- <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
+<p align="left">
+<img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
 <img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/LastBashibazouk?logo=reddit&style=plastic">
-
- <br></br>
+</p>
+<br></br>
