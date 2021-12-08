@@ -58,6 +58,7 @@
 <br></br>
 <p align="left">
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
-<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/LastBashibazouk?logo=reddit&style=plastic">
-</p>
+<a href="https://www.reddit.com/r/LastBashibazouk/">
+<img src="https://img.shields.io/reddit/subreddit-subscribers/LastBashibazouk?logo=reddit&style=plastic">
+</a></p>
 <br></br>
