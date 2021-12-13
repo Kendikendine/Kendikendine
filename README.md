@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/Whatsapp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a></tr>
 </table>
-<br></br>
 <p align="left">
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
 <a href="https://www.reddit.com/r/LastBashibazouk/">
