@@ -54,8 +54,6 @@
 </a></tr>
 </table>
 <br></br>
-<br></br>
-<br></br>
 <p align="left">
 <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kendikendine.Kendikendine">
 <a href="https://www.reddit.com/r/LastBashibazouk/">
